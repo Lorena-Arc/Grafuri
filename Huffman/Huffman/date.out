@@ -1,0 +1,28 @@
+  cu codul 1111
+. cu codul 0000
+L cu codul 0001
+d cu codul 0010
+e cu codul 0011
+i cu codul 0100
+l cu codul 0101
+m cu codul 011
+o cu codul 110
+p cu codul 1000
+r cu codul 101
+s cu codul 1001
+u cu codul 1110
+13
+  2
+. 1
+L 1
+d 1
+e 1
+i 1
+l 1
+m 2
+o 3
+p 1
+r 2
+s 1
+u 1
+0001 110 101 0011 011 1111 0100 1000 1001 1110 011 1111 0010 110 0101 110 101 0000 
